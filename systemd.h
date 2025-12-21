@@ -997,6 +997,9 @@
                          support */
 
     #include<stdio.h>
+    #ifdef APPLE2E
+         #include<apple2enh.h>
+    #endif
 
     #define BUFFERSIZE 128
     #define B_SIZE 120
@@ -1028,7 +1031,11 @@
         #include"CGASP.H"
         #define init_term() {showsplash();}
     #else
-        #define init_term() {}
+    	#ifdef APPLE2E
+             #define init_term() {videomode(VIDEOMODE_80COL);}
+    	#else
+             #define init_term() {}
+        #endif
     #endif
     #define leave()
 
