@@ -1,25 +1,29 @@
 all: modern c128 c64 vic20 spectrum
 
 pattuglia.c: PattugliaAlba.AWS
-	../aws2c -d -c -n PattugliaAlba.AWS pattuglia.c
+	../aws2c  -m -c -s -d -n -w -3 -kk PattugliaAlba.AWS pattuglia.c
 
 pattuglia_en.c: PattugliaAlba_en.AWS
-	../aws2c -d -c -n PattugliaAlba_en.AWS pattuglia_en.c
+	../aws2c  -m -c -s -d -n -w -3 -kk PattugliaAlba_en.AWS pattuglia_en.c
 
 pattuglia_no_UTF8.c: PattugliaAlba.AWS
-	../aws2c -d -c -m -n -s PattugliaAlba.AWS pattuglia_no_UTF8.c
+	../aws2c -m -c -s -d -n -w -3 -kk PattugliaAlba.AWS pattuglia_no_UTF8.c
 
 pattuglia_no_UTF8_en.c: PattugliaAlba.AWS
-	../aws2c -d -c -m -n -s PattugliaAlba.AWS pattuglia_no_UTF8.c
+	../aws2c  -m -c -s -d -n -w -3 -kk PattugliaAlba.AWS pattuglia_no_UTF8.c
 
 
 pattuglia_en_no_UTF8.c: PattugliaAlba_en.AWS
-	../aws2c -d -c -m -n -s PattugliaAlba_en.AWS pattuglia_en_no_UTF8.c
+	../aws2c -m -c -s -d -n -w -3 -kk PattugliaAlba_en.AWS pattuglia_en_no_UTF8.c
 
 modern: pattuglia.c inout.c pattuglia_en.c
 	gcc pattuglia.c inout.c -o pattuglia
 	gcc pattuglia_en.c inout.c -o patrol
 
+appleII: pattuglia_no_UTF8.c inout.c pattuglia_en_no_UTF8.c
+	cl65 -Or -Cl -t apple2enh -D APPLE2E pattuglia_no_UTF8.c inout.c loadsave.c -o pattuglia.a2e
+	cl65 -Or -Cl -t apple2enh -D APPLE2E pattuglia_en_no_UTF8.c inout.c loadsave.c -o patrol.a2e
+	
 c128: pattuglia_no_UTF8.c inout.c pattuglia_en_no_UTF8.c
 	cl65 -t c128 -D C128 -Or pattuglia_no_UTF8.c inout.c -o pattuglia-128.prg
 	cl65 -t c128 -D C128 -Or pattuglia_en_no_UTF8.c inout.c -o patrol-128.prg

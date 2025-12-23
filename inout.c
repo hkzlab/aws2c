@@ -13,7 +13,7 @@
 #include <stdio.h>
 #include <string.h>
 #ifndef CONFIG_FILENAME
-    #include"config.h"
+    #include "config.h"
 #else
     #include CONFIG_FILENAME
 #endif
