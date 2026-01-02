@@ -12,6 +12,9 @@ modern: innuh.c inout.c loadsave.c
 modern_alt: innuh_no_utf8.c inout.c loadsave.c
 	gcc innuh_no_utf8.c inout.c loadsave.c -o iunnuh_a
 
+appleII: innuh_no_utf8.c inout.c 
+	cl65 -Or -Cl -t apple2enh -D APPLE2E innuh_no_utf8.c inout.c loadsave.c -o iunnuh.a2e
+
 c64: innuh_no_utf8.c inout.c loadsave.c
 	cl65 -t c64 -D C64 innuh_no_utf8.c inout.c loadsave.c -o innuh-64.prg
 
