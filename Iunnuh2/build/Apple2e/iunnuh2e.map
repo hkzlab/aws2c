@@ -1,0 +1,1478 @@
+Modules list:
+-------------
+iunnuh2_no_utf8_en.c.88182.0.o:
+    CODE              Offs=000000  Size=0039BD  Align=00001  Fill=0000
+    RODATA            Offs=000000  Size=000A4D  Align=00001  Fill=0000
+    BSS               Offs=000000  Size=00020D  Align=00001  Fill=0000
+    DATA              Offs=000000  Size=000272  Align=00001  Fill=0000
+inout.c.88182.1.o:
+    CODE              Offs=0039BD  Size=000421  Align=00001  Fill=0000
+    RODATA            Offs=000A4D  Size=000003  Align=00001  Fill=0000
+    BSS               Offs=00020D  Size=00015F  Align=00001  Fill=0000
+loadsave.c.88182.2.o:
+    CODE              Offs=003DDE  Size=000487  Align=00001  Fill=0000
+    RODATA            Offs=000A50  Size=0000A4  Align=00001  Fill=0000
+    BSS               Offs=00036C  Size=000004  Align=00001  Fill=0000
+resource.c.88182.3.o:
+    CODE              Offs=004265  Size=0000FD  Align=00001  Fill=0000
+    RODATA            Offs=000AF4  Size=000003  Align=00001  Fill=0000
+    BSS               Offs=000370  Size=000004  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(_directerrno.o):
+    CODE              Offs=004362  Size=000009  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(_fdesc.o):
+    CODE              Offs=00436B  Size=00001D  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(_file.o):
+    DATA              Offs=000272  Size=00001E  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(_fopen.o):
+    CODE              Offs=004388  Size=00007B  Align=00001  Fill=0000
+    BSS               Offs=000374  Size=000002  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(_heap.o):
+    DATA              Offs=000290  Size=00000A  Align=00001  Fill=0000
+    ONCE              Offs=000000  Size=000010  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(_heapadd.o):
+    CODE              Offs=004403  Size=000021  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(_hextab.o):
+    RODATA            Offs=000AF7  Size=000010  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(_longminstr.o):
+    RODATA            Offs=000B07  Size=00000C  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(_mappederrno.o):
+    CODE              Offs=004424  Size=00000F  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(_oserror.o):
+    BSS               Offs=000376  Size=000001  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(_printf.o):
+    CODE              Offs=004433  Size=0003A1  Align=00001  Fill=0000
+    BSS               Offs=000377  Size=00002B  Align=00001  Fill=0000
+    DATA              Offs=00029A  Size=000003  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(_seterrno.o):
+    CODE              Offs=0047D4  Size=000009  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(addeqsp.o):
+    CODE              Offs=0047DD  Size=000011  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(addysp.o):
+    CODE              Offs=0047EE  Size=00000E  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(aslax2.o):
+    CODE              Offs=0047FC  Size=00000B  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(axlong.o):
+    CODE              Offs=004807  Size=00000D  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(bneg.o):
+    CODE              Offs=004814  Size=00000E  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(callmain.o):
+    CODE              Offs=004822  Size=000042  Align=00001  Fill=0000
+    DATA              Offs=00029D  Size=000004  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(checkferror.o):
+    CODE              Offs=004864  Size=00000C  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(close.o):
+    CODE              Offs=004870  Size=00001C  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(compl.o):
+    CODE              Offs=00488C  Size=000009  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(condes.o):
+    CODE              Offs=004895  Size=00000C  Align=00001  Fill=0000
+    DATA              Offs=0002A1  Size=000025  Align=00001  Fill=0000
+    ONCE              Offs=000010  Size=00000C  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(cout.o):
+    LOWCODE           Offs=000000  Size=00000A  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(crt0.o):
+    CODE              Offs=0048A1  Size=00001E  Align=00001  Fill=0000
+    RODATA            Offs=000B13  Size=000007  Align=00001  Fill=0000
+    DATA              Offs=0002C6  Size=000003  Align=00001  Fill=0000
+    STARTUP           Offs=000000  Size=00000C  Align=00001  Fill=0000
+    ONCE              Offs=00001C  Size=000083  Align=00001  Fill=0000
+    INIT              Offs=000000  Size=00001D  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(ctype.o):
+    RODATA            Offs=000B1A  Size=00008B  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(ctypemask.o):
+    CODE              Offs=0048BF  Size=00001E  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(decax1.o):
+    CODE              Offs=0048DD  Size=000007  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(decax4.o):
+    CODE              Offs=0048E4  Size=000007  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(decaxy.o):
+    CODE              Offs=0048EB  Size=000009  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(decsp1.o):
+    CODE              Offs=0048F4  Size=000009  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(decsp3.o):
+    CODE              Offs=0048FD  Size=00000D  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(decsp4.o):
+    CODE              Offs=00490A  Size=00000D  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(decsp6.o):
+    CODE              Offs=004917  Size=00000D  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(decsp7.o):
+    CODE              Offs=004924  Size=00000D  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(detect80cols.o):
+    DATA              Offs=0002C9  Size=000001  Align=00001  Fill=0000
+    ONCE              Offs=00009F  Size=00001C  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(div.o):
+    CODE              Offs=004931  Size=000015  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(dosdetect.o):
+    DATA              Offs=0002CA  Size=000001  Align=00001  Fill=0000
+    ONCE              Offs=0000BB  Size=000014  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(errno.o):
+    BSS               Offs=0003A2  Size=000002  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(exehdr.o):
+    EXEHDR            Offs=000000  Size=00003A  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(fclose.o):
+    CODE              Offs=004946  Size=00001E  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(fgetc.o):
+    CODE              Offs=004964  Size=00005D  Align=00001  Fill=0000
+    BSS               Offs=0003A4  Size=000001  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(fgets.o):
+    CODE              Offs=0049C1  Size=00007F  Align=00001  Fill=0000
+    BSS               Offs=0003A5  Size=000006  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(filedes.o):
+    CODE              Offs=004A40  Size=000016  Align=00001  Fill=0000
+    DATA              Offs=0002CB  Size=000020  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(filename.o):
+    CODE              Offs=004A56  Size=00006F  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(fopen.o):
+    CODE              Offs=004AC5  Size=000018  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(fputc.o):
+    CODE              Offs=004ADD  Size=000047  Align=00001  Fill=0000
+    BSS               Offs=0003AB  Size=000002  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(fputs.o):
+    CODE              Offs=004B24  Size=00001E  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(fread.o):
+    CODE              Offs=004B42  Size=0000CB  Align=00001  Fill=0000
+    BSS               Offs=0003AD  Size=000003  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(free.o):
+    CODE              Offs=004C0D  Size=0001D3  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(fseek.o):
+    CODE              Offs=004DE0  Size=00007D  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(get_iigs_speed.o):
+    CODE              Offs=004E5D  Size=000012  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(get_ostype.o):
+    CODE              Offs=004E6F  Size=000006  Align=00001  Fill=0000
+    ONCE              Offs=0000CF  Size=000073  Align=00001  Fill=0000
+    INIT              Offs=00001D  Size=000001  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(getchar.o):
+    CODE              Offs=004E75  Size=000009  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(incax2.o):
+    CODE              Offs=004E7E  Size=000007  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(incax5.o):
+    CODE              Offs=004E85  Size=000005  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(incaxy.o):
+    CODE              Offs=004E8A  Size=00000B  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(incsp1.o):
+    CODE              Offs=004E95  Size=000007  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(incsp2.o):
+    CODE              Offs=004E9C  Size=000015  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(incsp3.o):
+    CODE              Offs=004EB1  Size=000005  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(incsp4.o):
+    CODE              Offs=004EB6  Size=000005  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(incsp5.o):
+    CODE              Offs=004EBB  Size=000005  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(incsp6.o):
+    CODE              Offs=004EC0  Size=000005  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(incsp7.o):
+    CODE              Offs=004EC5  Size=000005  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(incsp8.o):
+    CODE              Offs=004ECA  Size=000005  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(iobuf.o):
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(lc-copy-applesoft.o):
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(ldaxi.o):
+    CODE              Offs=004ECF  Size=00000D  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(ldaxsp.o):
+    CODE              Offs=004EDC  Size=000009  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(ldeaxysp.o):
+    CODE              Offs=004EE5  Size=000013  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(ldptr1sp.o):
+    CODE              Offs=004EF8  Size=00000C  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(leaaxsp.o):
+    CODE              Offs=004F04  Size=00000C  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(lneg.o):
+    CODE              Offs=004F10  Size=00001E  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(lpush.o):
+    CODE              Offs=004F2E  Size=00001E  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(lseek.o):
+    CODE              Offs=004F4C  Size=000086  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(lsubeqsp.o):
+    CODE              Offs=004FD2  Size=000027  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(ltoa.o):
+    CODE              Offs=004FF9  Size=000093  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(makebool.o):
+    CODE              Offs=00508C  Size=00002C  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(malloc.o):
+    CODE              Offs=0050B8  Size=000110  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(memcpy.o):
+    CODE              Offs=0051C8  Size=00003C  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(mli.o):
+    BSS               Offs=0003B0  Size=000012  Align=00001  Fill=0000
+    DATA              Offs=0002EB  Size=000024  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(mli_set_pathname.o):
+    CODE              Offs=005204  Size=00000B  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(mod.o):
+    CODE              Offs=00520F  Size=000011  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(mul.o):
+    CODE              Offs=005220  Size=000045  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(mul8.o):
+    CODE              Offs=005265  Size=00003A  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(mulax10.o):
+    CODE              Offs=00529F  Size=000019  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(mulax3.o):
+    CODE              Offs=0052B8  Size=000011  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(mulax6.o):
+    CODE              Offs=0052C9  Size=000016  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(negabs.o):
+    CODE              Offs=0052DF  Size=000012  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(open.o):
+    CODE              Offs=0052F1  Size=0000EA  Align=00001  Fill=0000
+    DATA              Offs=00030F  Size=000009  Align=00001  Fill=0000
+    ONCE              Offs=000142  Size=000009  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(oserror.o):
+    CODE              Offs=0053DB  Size=000016  Align=00001  Fill=0000
+    RODATA            Offs=000BA5  Size=000032  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(pmemalign.o):
+    CODE              Offs=0053F1  Size=0001DC  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(popptr1.o):
+    CODE              Offs=0055CD  Size=00000E  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(push1.o):
+    CODE              Offs=0055DB  Size=000005  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(pusha.o):
+    CODE              Offs=0055E0  Size=000016  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(pushax.o):
+    CODE              Offs=0055F6  Size=00001A  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(pushptr1.o):
+    CODE              Offs=005610  Size=000007  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(pushwsp.o):
+    CODE              Offs=005617  Size=00001C  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(rand.o):
+    CODE              Offs=005633  Size=000034  Align=00001  Fill=0000
+    DATA              Offs=000318  Size=000004  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(rdkey.o):
+    LOWCODE           Offs=00000A  Size=00000A  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(read.o):
+    CODE              Offs=005667  Size=000058  Align=00001  Fill=0000
+    ONCE              Offs=00014B  Size=000007  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(regswap2.o):
+    CODE              Offs=0056BF  Size=000016  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(return0.o):
+    CODE              Offs=0056D5  Size=000004  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(returnFFFF.o):
+    CODE              Offs=0056D9  Size=000004  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(rwcommon.o):
+    CODE              Offs=0056DD  Size=000033  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(set_iigs_speed.o):
+    CODE              Offs=005710  Size=00001D  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(shelp.o):
+    CODE              Offs=00572D  Size=000020  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(sleep.o):
+    CODE              Offs=00574D  Size=00002E  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(sprintf.o):
+    CODE              Offs=00577B  Size=00002B  Align=00001  Fill=0000
+    BSS               Offs=0003C2  Size=000001  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(staspidx.o):
+    CODE              Offs=0057A6  Size=000016  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(staxsp.o):
+    CODE              Offs=0057BC  Size=00000B  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(staxspi.o):
+    CODE              Offs=0057C7  Size=00001A  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(steaxsp.o):
+    CODE              Offs=0057E1  Size=000015  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(strcmp.o):
+    CODE              Offs=0057F6  Size=000021  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(strlen.o):
+    CODE              Offs=005817  Size=000016  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(strlower.o):
+    CODE              Offs=00582D  Size=000027  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(sub.o):
+    CODE              Offs=005854  Size=000014  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(subeqsp.o):
+    CODE              Offs=005868  Size=000015  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(subysp.o):
+    CODE              Offs=00587D  Size=00000D  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(swap.o):
+    CODE              Offs=00588A  Size=000016  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(udiv.o):
+    CODE              Offs=0058A0  Size=00004F  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(videomode.o):
+    LOWCODE           Offs=000014  Size=000024  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(vsnprintf.o):
+    CODE              Offs=0058EF  Size=0000DA  Align=00001  Fill=0000
+    DATA              Offs=00031C  Size=000008  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(vsprintf.o):
+    CODE              Offs=0059C9  Size=000012  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(wait.o):
+    LOWCODE           Offs=000038  Size=00000A  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(write.o):
+    CODE              Offs=0059DB  Size=00006A  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(zerobss.o):
+    CODE              Offs=005A45  Size=000023  Align=00001  Fill=0000
+/opt/local/cc65//share/cc65/lib/apple2enh.lib(zeropage.o):
+    ZEROPAGE          Offs=000000  Size=00001A  Align=00001  Fill=0000
+
+
+Segment list:
+-------------
+Name                   Start     End    Size  Align
+----------------------------------------------------
+ZEROPAGE              000080  000099  00001A  00001
+EXEHDR                001FC6  001FFF  00003A  00001
+STARTUP               002000  00200B  00000C  00001
+LOWCODE               00200C  00204D  000042  00001
+CODE                  00204E  007AB5  005A68  00001
+RODATA                007AB6  00868E  000BD9  00001
+DATA                  00868F  0089B2  000324  00001
+INIT                  0089B3  0089D0  00001E  00001
+BSS                   0089D1  008D93  0003C3  00001
+ONCE                  0089D1  008B2E  00015E  00001
+
+
+Exports list by name:
+---------------------
+COUT                      00200C RLA    RDKEY                     002016 RLA    
+WAIT                      002044 RLA    __BSS_RUN__               0089D1 RLA    
+__BSS_SIZE__              0003C3 REA    __CONSTRUCTOR_COUNT__     000006 REA    
+__CONSTRUCTOR_TABLE__     008B23 RLA    __DESTRUCTOR_COUNT__      000001 REA    
+__DESTRUCTOR_TABLE__      00868D RLA    __EXEHDR__                000001 REA    
+__FILETYPE__              0000FF REA    __LCADDR__                00D400 REA    
+__LCSIZE__                000C00 REA    __LC_LAST__               00D400 RLA    
+__LC_START__              00D400 RLA    __MAIN_LAST__             008B2F RLA    
+__MAIN_START__            002000 RLA    __ONCE_LOAD__             0089D1 RLA    
+__ONCE_RUN__              0089D1 RLA    __ONCE_SIZE__             00015E REA    
+__STACKSIZE__             000800 REA    __STARTUP__               000001 REA    
+___directerrno            0063B0 RLA    ___errno                  008D73 RLA    
+___heapadd                006451 RLA    ___heapend                008923 RLA    
+___heapfirst              008925 RLA    ___heaplast               008927 RLA    
+___heapptr                008921 RLA    ___mappederrno            006472 RLA    
+___oserror                008D47 RLA    ___osmaperrno             007429 RLA    
+___seterrno               006822 RLA    __ctype                   0085D0 RLA    
+__ctypeidx                0085DB RLA    __dos_type                008959 RLA    
+__fdesc                   0063B9 RLA    __filetab                 008901 RLA    
+__fopen                   0063D6 RLA    __hextab                  0085AD RLA    
+__longminstr              0085BD RLA    __printf                  006572 RLA    
+_close                    0068BE RLA    _counter                  008ADA RLA    
+_current_position         008A56 RLA    _dictionary               007CB7 RLA    
+_eatcr                    005B89 RLA    _exit                     006887 RLA    
+_fclose                   006994 RLA    _fgetc                    0069B2 RLA    
+_fgets                    006A15 RLA    _fopen                    006B13 RLA    
+_fputc                    006B2B RLA    _fputs                    006B72 RLA    
+_fread                    006B90 RLA    _free                     006C5B RLA    
+_fseek                    006E2E RLA    _get_iigs_speed           006EAB RLA    
+_get_resource             006301 RLA    _getchar                  006EC3 RLA    
+_interrogationAndAnalysis 005BD0 RLA    _loadgame                 005F40 RLA    
+_ls                       008C68 RLA    _lseek                    006F9A RLA    
+_ltoa                     00705F RLA    _main                     0059E7 RLA    
+_malloc                   007106 RLA    _marker                   008A59 RLA    
+_memcpy                   007216 RLA    _next_position            008A57 RLA    
+_noun1                    008C62 RLA    _noun2                    008C64 RLA    
+_obj                      008847 RLA    _open                     00733F RLA    
+_playerInput              008BDF RLA    _posix_memalign           00743F RLA    
+_rand                     00768D RLA    _read                     0076B5 RLA    
+_resource_buffer          008D41 RLA    _rowc                     008BDE RLA    
+_savegame                 005E2C RLA    _set_iigs_speed           00775E RLA    
+_sleep                    00779B RLA    _sprintf                  0077C9 RLA    
+_stdin                    008919 RLA    _stdout                   00891B RLA    
+_strcmp                   007844 RLA    _strlen                   007865 RLA    
+_strlower                 00787B RLA    _ultoa                    00709E RLA    
+_verb                     008C60 RLA    _videomode                002020 RLA    
+_vsprintf                 007A17 RLA    _world                    00868F RLA    
+_write                    007A29 RLA    _writesameln              005A0B RLA    
+addeq0sp                  00682B RLA    addeqysp                  00682D RLA    
+addysp                    00683D RLA    addysp1                   00683C RLA    
+aux80col                  008958 RLA    axlong                    006855 RLA    
+axulong                   00685B RLA    bltu2                     00D39A RLA    
+bnega                     006866 RLA    bnegax                    006862 RLA    
+booleq                    0070E0 RLA    boolne                    0070DA RLA    
+c_sp                      000080 RLZ    callmain                  006870 RLA    
+callmli                   00897A RLA    checkferror               0068B2 RLA    
+closeallfiles             00741B  LAI   closedirect               007411 RLA    
+complax                   0068DA RLA    ctypemaskdirect           006911 RLA    
+decax1                    00692B RLA    decax4                    006932 RLA    
+decaxy                    006939 RLA    decsp1                    006942 RLA    
+decsp3                    00694B RLA    decsp4                    006958 RLA    
+decsp6                    006965 RLA    decsp7                    006972 RLA    
+detect80cols              008A78  LAI   done                      008955 RLA    
+donelib                   0068E3 RLA    fdtab                     00895A RLA    
+freebuffer                007409 RLA    getfd                     006A8E RLA    
+heapadd                   006CEF RLA    incax2                    006ECC RLA    
+incax4                    006ED8 RLA    incax5                    006ED3 RLA    
+incaxy                    006EDA RLA    incsp1                    006EE3 RLA    
+incsp2                    006EF1 RLA    incsp3                    006EFF RLA    
+incsp4                    006F04 RLA    incsp5                    006F09 RLA    
+incsp6                    006F0E RLA    incsp7                    006F13 RLA    
+incsp8                    006F18 RLA    initdostype               008A8C  LAI   
+initheap                  0089D1  LAI   initlib                   0089E1 RLA    
+initostype                008AA0  LAI   initprompt                008B1C  LAI   
+iobuf_alloc               00743F RLA    iobuf_free                006C5B RLA    
+ldax0sp                   006F2A RLA    ldaxi                     006F1D RLA    
+ldaxidx                   006F1F RLA    ldaxysp                   006F2C RLA    
+ldeax0sp                  006F33 RLA    ldeaxysp                  006F35 RLA    
+ldptr10sp                 006F46 RLA    ldptr1ysp                 006F48 RLA    
+leaa0sp                   006F52 RLA    lsubeqysp                 007022 RLA    
+mli_set_pathname_tos      007252 RLA    mliparam                  008D81 RLA    
+mul8x16                   0072B5 RLA    mul8x16a                  0072BF RLA    
+mulax10                   0072ED RLA    mulax3                    007306 RLA    
+mulax6                    007317 RLA    negax                     007331 RLA    
+negeax                    006F5E RLA    ostype                    0089D0 RLA    
+popax                     006EEA RLA    popname                   006B0E RLA    
+popptr1                   00761B RLA    popsargsudiv16            00777B RLA    
+ptr1                      000088 RLZ    ptr2                      00008A RLZ    
+ptr3                      00008C RLZ    ptr4                      00008E RLZ    
+push0                     007644 RLA    push1                     007629 RLA    
+pusha                     007632 RLA    pusha0                    007646 RLA    
+pushax                    007648 RLA    pusheax                   006F83 RLA    
+pushname_tos              006AA4 RLA    pushptr1                  00765E RLA    
+pushw0sp                  007665 RLA    pushwysp                  007667 RLA    
+raisefilelevel            008B13  LAI   regbank                   000094 RLZ    
+regswap2                  00770D RLA    reset                     0068EF RLA    
+return0                   007723 RLA    returnFFFF                007727 RLA    
+rvsave                    0089CD RLA    rwcommon                  007738 RLA    
+rwepilog                  007751 RLA    rwprolog                  00772B RLA    
+shlax2                    00684A RLA    sreg                      000082 RLZ    
+staspidx                  0077F4 RLA    stax0sp                   00780A RLA    
+staxspidx                 007815 RLA    staxysp                   00780C RLA    
+steax0sp                  00782F RLA    subeqysp                  0078B8 RLA    
+subysp                    0078CB RLA    swapstk                   0078D8 RLA    
+tmp1                      000090 RLZ    tmp2                      000091 RLZ    
+tmp3                      000092 RLZ    tosdiva0                  00697F RLA    
+tosmoda0                  00725D RLA    tosmula0                  0072B3 RLA    
+tosmulax                  00726E RLA    tossubax                  0078A4 RLA    
+tosudivax                 0078F0 RLA    tosumulax                 00726E RLA    
+udiv16                    0078FF RLA    vsnprintf                 007940 RLA    
+zerobss                   007A93 RLA    zpsave                    0089B3 RLA    
+
+
+
+Exports list by value:
+----------------------
+__DESTRUCTOR_COUNT__      000001 REA    __EXEHDR__                000001 REA    
+__STARTUP__               000001 REA    __CONSTRUCTOR_COUNT__     000006 REA    
+c_sp                      000080 RLZ    sreg                      000082 RLZ    
+ptr1                      000088 RLZ    ptr2                      00008A RLZ    
+ptr3                      00008C RLZ    ptr4                      00008E RLZ    
+tmp1                      000090 RLZ    tmp2                      000091 RLZ    
+tmp3                      000092 RLZ    regbank                   000094 RLZ    
+__FILETYPE__              0000FF REA    __ONCE_SIZE__             00015E REA    
+__BSS_SIZE__              0003C3 REA    __STACKSIZE__             000800 REA    
+__LCSIZE__                000C00 REA    __MAIN_START__            002000 RLA    
+COUT                      00200C RLA    RDKEY                     002016 RLA    
+_videomode                002020 RLA    WAIT                      002044 RLA    
+_main                     0059E7 RLA    _writesameln              005A0B RLA    
+_eatcr                    005B89 RLA    _interrogationAndAnalysis 005BD0 RLA    
+_savegame                 005E2C RLA    _loadgame                 005F40 RLA    
+_get_resource             006301 RLA    ___directerrno            0063B0 RLA    
+__fdesc                   0063B9 RLA    __fopen                   0063D6 RLA    
+___heapadd                006451 RLA    ___mappederrno            006472 RLA    
+__printf                  006572 RLA    ___seterrno               006822 RLA    
+addeq0sp                  00682B RLA    addeqysp                  00682D RLA    
+addysp1                   00683C RLA    addysp                    00683D RLA    
+shlax2                    00684A RLA    axlong                    006855 RLA    
+axulong                   00685B RLA    bnegax                    006862 RLA    
+bnega                     006866 RLA    callmain                  006870 RLA    
+_exit                     006887 RLA    checkferror               0068B2 RLA    
+_close                    0068BE RLA    complax                   0068DA RLA    
+donelib                   0068E3 RLA    reset                     0068EF RLA    
+ctypemaskdirect           006911 RLA    decax1                    00692B RLA    
+decax4                    006932 RLA    decaxy                    006939 RLA    
+decsp1                    006942 RLA    decsp3                    00694B RLA    
+decsp4                    006958 RLA    decsp6                    006965 RLA    
+decsp7                    006972 RLA    tosdiva0                  00697F RLA    
+_fclose                   006994 RLA    _fgetc                    0069B2 RLA    
+_fgets                    006A15 RLA    getfd                     006A8E RLA    
+pushname_tos              006AA4 RLA    popname                   006B0E RLA    
+_fopen                    006B13 RLA    _fputc                    006B2B RLA    
+_fputs                    006B72 RLA    _fread                    006B90 RLA    
+_free                     006C5B RLA    iobuf_free                006C5B RLA    
+heapadd                   006CEF RLA    _fseek                    006E2E RLA    
+_get_iigs_speed           006EAB RLA    _getchar                  006EC3 RLA    
+incax2                    006ECC RLA    incax5                    006ED3 RLA    
+incax4                    006ED8 RLA    incaxy                    006EDA RLA    
+incsp1                    006EE3 RLA    popax                     006EEA RLA    
+incsp2                    006EF1 RLA    incsp3                    006EFF RLA    
+incsp4                    006F04 RLA    incsp5                    006F09 RLA    
+incsp6                    006F0E RLA    incsp7                    006F13 RLA    
+incsp8                    006F18 RLA    ldaxi                     006F1D RLA    
+ldaxidx                   006F1F RLA    ldax0sp                   006F2A RLA    
+ldaxysp                   006F2C RLA    ldeax0sp                  006F33 RLA    
+ldeaxysp                  006F35 RLA    ldptr10sp                 006F46 RLA    
+ldptr1ysp                 006F48 RLA    leaa0sp                   006F52 RLA    
+negeax                    006F5E RLA    pusheax                   006F83 RLA    
+_lseek                    006F9A RLA    lsubeqysp                 007022 RLA    
+_ltoa                     00705F RLA    _ultoa                    00709E RLA    
+boolne                    0070DA RLA    booleq                    0070E0 RLA    
+_malloc                   007106 RLA    _memcpy                   007216 RLA    
+mli_set_pathname_tos      007252 RLA    tosmoda0                  00725D RLA    
+tosmulax                  00726E RLA    tosumulax                 00726E RLA    
+tosmula0                  0072B3 RLA    mul8x16                   0072B5 RLA    
+mul8x16a                  0072BF RLA    mulax10                   0072ED RLA    
+mulax3                    007306 RLA    mulax6                    007317 RLA    
+negax                     007331 RLA    _open                     00733F RLA    
+freebuffer                007409 RLA    closedirect               007411 RLA    
+closeallfiles             00741B  LAI   ___osmaperrno             007429 RLA    
+_posix_memalign           00743F RLA    iobuf_alloc               00743F RLA    
+popptr1                   00761B RLA    push1                     007629 RLA    
+pusha                     007632 RLA    push0                     007644 RLA    
+pusha0                    007646 RLA    pushax                    007648 RLA    
+pushptr1                  00765E RLA    pushw0sp                  007665 RLA    
+pushwysp                  007667 RLA    _rand                     00768D RLA    
+_read                     0076B5 RLA    regswap2                  00770D RLA    
+return0                   007723 RLA    returnFFFF                007727 RLA    
+rwprolog                  00772B RLA    rwcommon                  007738 RLA    
+rwepilog                  007751 RLA    _set_iigs_speed           00775E RLA    
+popsargsudiv16            00777B RLA    _sleep                    00779B RLA    
+_sprintf                  0077C9 RLA    staspidx                  0077F4 RLA    
+stax0sp                   00780A RLA    staxysp                   00780C RLA    
+staxspidx                 007815 RLA    steax0sp                  00782F RLA    
+_strcmp                   007844 RLA    _strlen                   007865 RLA    
+_strlower                 00787B RLA    tossubax                  0078A4 RLA    
+subeqysp                  0078B8 RLA    subysp                    0078CB RLA    
+swapstk                   0078D8 RLA    tosudivax                 0078F0 RLA    
+udiv16                    0078FF RLA    vsnprintf                 007940 RLA    
+_vsprintf                 007A17 RLA    _write                    007A29 RLA    
+zerobss                   007A93 RLA    _dictionary               007CB7 RLA    
+__hextab                  0085AD RLA    __longminstr              0085BD RLA    
+__ctype                   0085D0 RLA    __ctypeidx                0085DB RLA    
+__DESTRUCTOR_TABLE__      00868D RLA    _world                    00868F RLA    
+_obj                      008847 RLA    __filetab                 008901 RLA    
+_stdin                    008919 RLA    _stdout                   00891B RLA    
+___heapptr                008921 RLA    ___heapend                008923 RLA    
+___heapfirst              008925 RLA    ___heaplast               008927 RLA    
+done                      008955 RLA    aux80col                  008958 RLA    
+__dos_type                008959 RLA    fdtab                     00895A RLA    
+callmli                   00897A RLA    zpsave                    0089B3 RLA    
+rvsave                    0089CD RLA    ostype                    0089D0 RLA    
+__BSS_RUN__               0089D1 RLA    __ONCE_LOAD__             0089D1 RLA    
+__ONCE_RUN__              0089D1 RLA    initheap                  0089D1  LAI   
+initlib                   0089E1 RLA    _current_position         008A56 RLA    
+_next_position            008A57 RLA    _marker                   008A59 RLA    
+detect80cols              008A78  LAI   initdostype               008A8C  LAI   
+initostype                008AA0  LAI   _counter                  008ADA RLA    
+raisefilelevel            008B13  LAI   initprompt                008B1C  LAI   
+__CONSTRUCTOR_TABLE__     008B23 RLA    __MAIN_LAST__             008B2F RLA    
+_rowc                     008BDE RLA    _playerInput              008BDF RLA    
+_verb                     008C60 RLA    _noun1                    008C62 RLA    
+_noun2                    008C64 RLA    _ls                       008C68 RLA    
+_resource_buffer          008D41 RLA    ___oserror                008D47 RLA    
+___errno                  008D73 RLA    mliparam                  008D81 RLA    
+bltu2                     00D39A RLA    __LCADDR__                00D400 REA    
+__LC_LAST__               00D400 RLA    __LC_START__              00D400 RLA    
+
+
+
+Imports list:
+-------------
+COUT (cout.o):
+    write.o                   apple2/write.s:9
+    read.o                    apple2/read.s:10
+RDKEY (rdkey.o):
+    read.o                    apple2/read.s:10
+WAIT (wait.o):
+    sleep.o                   apple2/sleep.s:11
+__BSS_RUN__ ([linker generated]):
+    _heap.o                   common/_heap.s:8
+    zerobss.o                 common/zerobss.s:8
+__BSS_SIZE__ ([linker generated]):
+    _heap.o                   common/_heap.s:8
+    zerobss.o                 common/zerobss.s:8
+__CONSTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s:18
+__CONSTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s:18
+__DESTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s:19
+__DESTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s:19
+__EXEHDR__ (exehdr.o):
+    [linker generated]        /opt/local/cc65//share/cc65/cfg/apple2enh-system.cfg:4
+__FILETYPE__ ([linker generated]):
+    exehdr.o                  apple2/exehdr.s:9
+__LCADDR__ ([linker generated]):
+    [linker generated]        /opt/local/cc65//share/cc65/cfg/apple2enh-system.cfg:15
+__LCSIZE__ ([linker generated]):
+    [linker generated]        /opt/local/cc65//share/cc65/cfg/apple2enh-system.cfg:15
+__LC_LAST__ ([linker generated]):
+    crt0.o                    apple2/crt0.s:15
+__LC_START__ ([linker generated]):
+    crt0.o                    apple2/crt0.s:15
+__MAIN_LAST__ ([linker generated]):
+    exehdr.o                  apple2/exehdr.s:10
+__MAIN_START__ ([linker generated]):
+    exehdr.o                  apple2/exehdr.s:10
+__ONCE_LOAD__ ([linker generated]):
+    crt0.o                    apple2/crt0.s:14
+__ONCE_RUN__ ([linker generated]):
+    [linker generated]        /opt/local/cc65//share/cc65/cfg/apple2enh-system.cfg:14
+    [linker generated]        /opt/local/cc65//share/cc65/cfg/apple2enh-system.cfg:14
+__ONCE_SIZE__ ([linker generated]):
+    crt0.o                    apple2/crt0.s:14
+__STACKSIZE__ ([linker generated]):
+    _heap.o                   common/_heap.s:8
+    [linker generated]        /opt/local/cc65//share/cc65/cfg/apple2enh-system.cfg:14
+__STARTUP__ (crt0.o):
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:13
+___directerrno (_directerrno.o):
+    vsnprintf.o               /home/fbattaglia/Development/cc65/asminc/errno.inc:10
+    open.o                    /home/fbattaglia/Development/cc65/asminc/errno.inc:10
+    close.o                   /home/fbattaglia/Development/cc65/asminc/errno.inc:10
+    write.o                   /home/fbattaglia/Development/cc65/asminc/errno.inc:10
+    read.o                    /home/fbattaglia/Development/cc65/asminc/errno.inc:10
+    lseek.o                   /home/fbattaglia/Development/cc65/asminc/errno.inc:10
+    fclose.o                  common/fclose.s:10
+___errno (errno.o):
+    _seterrno.o               /home/fbattaglia/Development/cc65/asminc/errno.inc:7
+    fgets.o                   common/fgets.s:8
+___heapadd (_heapadd.o):
+    resource.c.88182.3.o      resource.c.88182.3.s:19
+___heapend (_heap.o):
+    malloc.o                  /home/fbattaglia/Development/cc65/asminc/_heap.inc:33
+___heapfirst (_heap.o):
+    malloc.o                  /home/fbattaglia/Development/cc65/asminc/_heap.inc:34
+    free.o                    /home/fbattaglia/Development/cc65/asminc/_heap.inc:34
+___heaplast (_heap.o):
+    malloc.o                  /home/fbattaglia/Development/cc65/asminc/_heap.inc:35
+    free.o                    /home/fbattaglia/Development/cc65/asminc/_heap.inc:35
+___heapptr (_heap.o):
+    malloc.o                  /home/fbattaglia/Development/cc65/asminc/_heap.inc:32
+    free.o                    /home/fbattaglia/Development/cc65/asminc/_heap.inc:32
+___mappederrno (_mappederrno.o):
+    open.o                    /home/fbattaglia/Development/cc65/asminc/errno.inc:10
+    close.o                   /home/fbattaglia/Development/cc65/asminc/errno.inc:10
+    write.o                   /home/fbattaglia/Development/cc65/asminc/errno.inc:10
+    rwcommon.o                /home/fbattaglia/Development/cc65/asminc/errno.inc:10
+    lseek.o                   /home/fbattaglia/Development/cc65/asminc/errno.inc:10
+___oserror (_oserror.o):
+    open.o                    /home/fbattaglia/Development/cc65/asminc/errno.inc:7
+    _mappederrno.o            /home/fbattaglia/Development/cc65/asminc/errno.inc:7
+    _directerrno.o            /home/fbattaglia/Development/cc65/asminc/errno.inc:7
+    rwcommon.o                /home/fbattaglia/Development/cc65/asminc/errno.inc:7
+    read.o                    /home/fbattaglia/Development/cc65/asminc/errno.inc:7
+___osmaperrno (oserror.o):
+    _mappederrno.o            /home/fbattaglia/Development/cc65/asminc/errno.inc:8
+___seterrno (_seterrno.o):
+    _mappederrno.o            /home/fbattaglia/Development/cc65/asminc/errno.inc:9
+    _fopen.o                  /home/fbattaglia/Development/cc65/asminc/errno.inc:9
+    _directerrno.o            /home/fbattaglia/Development/cc65/asminc/errno.inc:9
+    fseek.o                   ../libwrk/apple2enh/fseek.s:19
+    fread.o                   /home/fbattaglia/Development/cc65/asminc/errno.inc:9
+    fopen.o                   /home/fbattaglia/Development/cc65/asminc/errno.inc:9
+__ctype (ctype.o):
+    ctypemask.o               common/ctypemask.s:23
+__ctypeidx (ctype.o):
+    ctypemask.o               common/ctypemask.s:24
+__dos_type (dosdetect.o):
+    open.o                    apple2/open.s:12
+    mli.o                     apple2/mli.s:7
+__fdesc (_fdesc.o):
+    fopen.o                   common/fopen.s:10
+__filetab (_file.o):
+    _fdesc.o                  /home/fbattaglia/Development/cc65/asminc/_file.inc:25
+__fopen (_fopen.o):
+    fopen.o                   common/fopen.s:10
+__hextab (_hextab.o):
+    ltoa.o                    common/ltoa.s:10
+__longminstr (_longminstr.o):
+    ltoa.o                    common/ltoa.s:10
+__printf (_printf.o):
+    vsnprintf.o               common/vsnprintf.s:10
+_close (close.o):
+    fclose.o                  common/fclose.s:10
+_counter (iunnuh2_no_utf8_en.c.88182.0.o):
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:26
+_current_position (iunnuh2_no_utf8_en.c.88182.0.o):
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:23
+_dictionary (iunnuh2_no_utf8_en.c.88182.0.o):
+    inout.c.88182.1.o         inout.c.88182.1.s:34
+_eatcr (inout.c.88182.1.o):
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:22
+_exit (callmain.o):
+    crt0.o                    apple2/crt0.s:11
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:15
+_fclose (fclose.o):
+    resource.c.88182.3.o      resource.c.88182.3.s:13
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:14
+_fgetc (fgetc.o):
+    getchar.o                 ../libwrk/apple2enh/getchar.s:17
+    fgets.o                   common/fgets.s:8
+_fgets (fgets.o):
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:15
+    inout.c.88182.1.o         inout.c.88182.1.s:15
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:18
+_fopen (fopen.o):
+    resource.c.88182.3.o      resource.c.88182.3.s:14
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:16
+_fputc (fputc.o):
+    inout.c.88182.1.o         inout.c.88182.1.s:16
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:19
+_fputs (fputs.o):
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:17
+    inout.c.88182.1.o         inout.c.88182.1.s:17
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:20
+_fread (fread.o):
+    resource.c.88182.3.o      resource.c.88182.3.s:15
+_free (free.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:19
+    iobuf.o                   apple2/iobuf.s:8
+    resource.c.88182.3.o      resource.c.88182.3.s:18
+_fseek (fseek.o):
+    resource.c.88182.3.o      resource.c.88182.3.s:16
+_get_iigs_speed (get_iigs_speed.o):
+    sleep.o                   apple2/sleep.s:9
+_get_resource (resource.c.88182.3.o):
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:32
+_getchar (getchar.o):
+    inout.c.88182.1.o         inout.c.88182.1.s:18
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:21
+_interrogationAndAnalysis (inout.c.88182.1.o):
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:30
+_loadgame (loadsave.c.88182.2.o):
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:28
+_ls (inout.c.88182.1.o):
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:57
+_lseek (lseek.o):
+    fseek.o                   ../libwrk/apple2enh/fseek.s:20
+_ltoa (ltoa.o):
+    _printf.o                 common/_printf.s:12
+_main (iunnuh2_no_utf8_en.c.88182.0.o):
+    callmain.o                apple2/callmain.s:11
+_malloc (malloc.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:18
+    resource.c.88182.3.o      resource.c.88182.3.s:17
+_marker (iunnuh2_no_utf8_en.c.88182.0.o):
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:25
+_memcpy (memcpy.o):
+    vsnprintf.o               common/vsnprintf.s:10
+_next_position (iunnuh2_no_utf8_en.c.88182.0.o):
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:24
+_noun1 (inout.c.88182.1.o):
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:34
+_noun2 (inout.c.88182.1.o):
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:35
+_obj (iunnuh2_no_utf8_en.c.88182.0.o):
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:27
+_open (open.o):
+    _fopen.o                  common/_fopen.s:10
+_playerInput (inout.c.88182.1.o):
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:29
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:58
+_posix_memalign (pmemalign.o):
+    iobuf.o                   apple2/iobuf.s:8
+_rand (rand.o):
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:14
+_read (read.o):
+    fgetc.o                   common/fgetc.s:8
+    fread.o                   common/fread.s:10
+_resource_buffer (resource.c.88182.3.o):
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:31
+_rowc (inout.c.88182.1.o):
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:26
+_savegame (loadsave.c.88182.2.o):
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:27
+_set_iigs_speed (set_iigs_speed.o):
+    sleep.o                   apple2/sleep.s:10
+_sleep (sleep.o):
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:24
+_sprintf (sprintf.o):
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:22
+_stdin (_file.o):
+    getchar.o                 ../libwrk/apple2enh/getchar.s:16
+    inout.c.88182.1.o         inout.c.88182.1.s:13
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:16
+_stdout (_file.o):
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:13
+    inout.c.88182.1.o         inout.c.88182.1.s:14
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:17
+_strcmp (strcmp.o):
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:18
+_strlen (strlen.o):
+    _printf.o                 common/_printf.s:13
+    fputs.o                   common/fputs.s:9
+_strlower (strlower.o):
+    _printf.o                 common/_printf.s:13
+_ultoa (ltoa.o):
+    _printf.o                 common/_printf.s:12
+_verb (inout.c.88182.1.o):
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:33
+_videomode (videomode.o):
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:25
+_vsprintf (vsprintf.o):
+    sprintf.o                 common/sprintf.s:8
+_world (iunnuh2_no_utf8_en.c.88182.0.o):
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:28
+_write (write.o):
+    fputs.o                   common/fputs.s:9
+    fputc.o                   common/fputc.s:9
+_writesameln (inout.c.88182.1.o):
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:29
+addeq0sp (addeqsp.o):
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+addeqysp (addeqsp.o):
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+addysp (addysp.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:331
+    filename.o                apple2/filename.s:8
+    open.o                    apple2/open.s:14
+    sprintf.o                 common/sprintf.s:8
+    incsp8.o                  runtime/incsp8.s:8
+    incsp7.o                  runtime/incsp7.s:8
+    incsp6.o                  runtime/incsp6.s:8
+    incsp5.o                  runtime/incsp5.s:8
+    incsp4.o                  runtime/incsp4.s:8
+    incsp3.o                  runtime/incsp3.s:8
+    fseek.o                   ../libwrk/apple2enh/fseek.s:114
+addysp1 (addysp.o):
+    sub.o                     runtime/sub.s:8
+aux80col (detect80cols.o):
+    videomode.o               apple2/videomode.s:8
+axlong (axlong.o):
+    _printf.o                 common/_printf.s:11
+axulong (axlong.o):
+    _printf.o                 common/_printf.s:11
+    resource.c.88182.3.o      resource.c.88182.3.s:175
+bltu2 (lc-copy-applesoft.o):
+    crt0.o                    apple2/crt0.s:13
+bnega (bneg.o):
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+bnegax (bneg.o):
+    resource.c.88182.3.o      resource.c.88182.3.s:175
+booleq (makebool.o):
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+boolne (makebool.o):
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+c_sp (zeropage.o):
+    subysp.o                  runtime/subysp.s:9
+    subeqsp.o                 runtime/subeqsp.s:8
+    sub.o                     runtime/sub.s:9
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:10
+    mli_set_pathname.o        /home/fbattaglia/Development/cc65/asminc/zeropage.inc:11
+    memcpy.o                  common/memcpy.s:15
+    filename.o                /home/fbattaglia/Development/cc65/asminc/zeropage.inc:11
+    decsp6.o                  runtime/decsp6.s:8
+    _printf.o                 /home/fbattaglia/Development/cc65/asminc/zeropage.inc:11
+    vsnprintf.o               common/vsnprintf.s:11
+    addysp.o                  runtime/addysp.s:8
+    _heap.o                   common/_heap.s:9
+    _fopen.o                  common/_fopen.s:12
+    swap.o                    runtime/swap.s:9
+    steaxsp.o                 runtime/steaxsp.s:8
+    staxspi.o                 runtime/staxspi.s:10
+    staxsp.o                  runtime/staxsp.s:8
+    staspidx.o                runtime/staspidx.s:9
+    sprintf.o                 common/sprintf.s:9
+    regswap2.o                runtime/regswap2.s:8
+    pushwsp.o                 runtime/pushwsp.s:8
+    pushax.o                  runtime/pushax.s:8
+    pusha.o                   runtime/pusha.s:8
+    popptr1.o                 runtime/popptr1.s:9
+    lsubeqsp.o                runtime/lsubeqsp.s:8
+    lpush.o                   runtime/lpush.s:13
+    leaaxsp.o                 runtime/leaaxsp.s:8
+    ldptr1sp.o                runtime/ldptr1sp.s:8
+    ldeaxysp.o                runtime/ldeaxysp.s:12
+    ldaxsp.o                  runtime/ldaxsp.s:8
+    incsp2.o                  runtime/incsp2.s:8
+    incsp1.o                  runtime/incsp1.s:8
+    fseek.o                   ../libwrk/apple2enh/fseek.s:10
+    fread.o                   common/fread.s:17
+    decsp7.o                  runtime/decsp7.s:8
+    decsp4.o                  runtime/decsp4.s:8
+    decsp3.o                  runtime/decsp3.s:8
+    decsp1.o                  runtime/decsp1.s:8
+    crt0.o                    /home/fbattaglia/Development/cc65/asminc/zeropage.inc:11
+    callmain.o                /home/fbattaglia/Development/cc65/asminc/zeropage.inc:11
+    addeqsp.o                 runtime/addeqsp.s:8
+    resource.c.88182.3.o      resource.c.88182.3.s:10
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:10
+    inout.c.88182.1.o         inout.c.88182.1.s:10
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10
+callmain (callmain.o):
+    crt0.o                    apple2/crt0.s:12
+callmli (mli.o):
+    filename.o                apple2/mli.inc:148
+    open.o                    apple2/mli.inc:148
+    write.o                   apple2/mli.inc:148
+    rwcommon.o                apple2/mli.inc:148
+    lseek.o                   apple2/mli.inc:148
+checkferror (checkferror.o):
+    fgetc.o                   common/fgetc.s:8
+    fputs.o                   common/fputs.s:9
+    fputc.o                   common/fputc.s:9
+closedirect (open.o):
+    close.o                   apple2/close.s:9
+complax (compl.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:331
+ctypemaskdirect (ctypemask.o):
+    strlower.o                common/strlower.s:14
+decax1 (decax1.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:331
+decax4 (decax4.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:331
+decaxy (decaxy.o):
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+decsp1 (decsp1.o):
+    filename.o                apple2/filename.s:8
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+decsp3 (decsp3.o):
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+decsp4 (decsp4.o):
+    sprintf.o                 common/sprintf.s:8
+    lpush.o                   runtime/lpush.s:12
+    fseek.o                   ../libwrk/apple2enh/fseek.s:114
+    resource.c.88182.3.o      resource.c.88182.3.s:175
+decsp6 (decsp6.o):
+    _printf.o                 common/_printf.s:11
+decsp7 (decsp7.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:331
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+done (crt0.o):
+    callmain.o                apple2/callmain.s:11
+donelib (condes.o):
+    callmain.o                apple2/callmain.s:11
+fdtab (filedes.o):
+    open.o                    apple2/filedes.inc:13
+    close.o                   apple2/filedes.inc:13
+    write.o                   apple2/filedes.inc:13
+    read.o                    apple2/filedes.inc:13
+freebuffer (open.o):
+    close.o                   apple2/close.s:9
+getfd (filedes.o):
+    close.o                   apple2/filedes.inc:14
+    rwcommon.o                apple2/filedes.inc:14
+    lseek.o                   apple2/filedes.inc:14
+heapadd (free.o):
+    _heapadd.o                common/_heapadd.s:12
+incax2 (incax2.o):
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+incax4 (incaxy.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:331
+incax5 (incax5.o):
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+incaxy (incaxy.o):
+    open.o                    apple2/open.s:14
+    incax5.o                  runtime/incax5.s:8
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+incsp1 (incsp1.o):
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+incsp2 (incsp2.o):
+    vsnprintf.o               common/vsnprintf.s:9
+    fgetc.o                   common/fgetc.s:9
+    staxspi.o                 runtime/staxspi.s:9
+    staspidx.o                runtime/staspidx.s:8
+    popptr1.o                 runtime/popptr1.s:8
+    fputc.o                   common/fputc.s:10
+    resource.c.88182.3.o      resource.c.88182.3.s:175
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+incsp3 (incsp3.o):
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+incsp4 (incsp4.o):
+    open.o                    apple2/open.s:14
+    _fopen.o                  common/_fopen.s:11
+    fread.o                   common/fread.s:12
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+incsp5 (incsp5.o):
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+incsp6 (incsp6.o):
+    vsnprintf.o               common/vsnprintf.s:9
+    fread.o                   common/fread.s:12
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+incsp7 (incsp7.o):
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+incsp8 (incsp8.o):
+    resource.c.88182.3.o      resource.c.88182.3.s:175
+initlib (condes.o):
+    crt0.o                    apple2/crt0.s:11
+iobuf_alloc (iobuf.o):
+    open.o                    apple2/open.s:13
+iobuf_free (iobuf.o):
+    open.o                    apple2/open.s:13
+ldax0sp (ldaxsp.o):
+    fread.o                   common/fread.s:13
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+ldaxi (ldaxi.o):
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+ldaxidx (ldaxi.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:331
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+ldaxysp (ldaxsp.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:331
+    vsnprintf.o               common/vsnprintf.s:9
+    fseek.o                   ../libwrk/apple2enh/fseek.s:114
+    fread.o                   common/fread.s:13
+    resource.c.88182.3.o      resource.c.88182.3.s:175
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+ldeax0sp (ldeaxysp.o):
+    fseek.o                   ../libwrk/apple2enh/fseek.s:114
+ldeaxysp (ldeaxysp.o):
+    fseek.o                   ../libwrk/apple2enh/fseek.s:114
+ldptr10sp (ldptr1sp.o):
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+ldptr1ysp (ldptr1sp.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:331
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+leaa0sp (leaaxsp.o):
+    resource.c.88182.3.o      resource.c.88182.3.s:175
+lsubeqysp (lsubeqsp.o):
+    fseek.o                   ../libwrk/apple2enh/fseek.s:114
+mli_set_pathname_tos (mli_set_pathname.o):
+    open.o                    apple2/open.s:12
+mliparam (mli.o):
+    mli_set_pathname.o        apple2/mli.inc:147
+    filename.o                apple2/mli.inc:147
+    open.o                    apple2/mli.inc:147
+    write.o                   apple2/mli.inc:147
+    rwcommon.o                apple2/mli.inc:147
+    lseek.o                   apple2/mli.inc:147
+mul8x16 (mul8.o):
+    mul.o                     runtime/mul.s:8
+mul8x16a (mul8.o):
+    mul.o                     runtime/mul.s:8
+mulax10 (mulax10.o):
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+mulax3 (mulax3.o):
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+mulax6 (mulax6.o):
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+negax (negabs.o):
+    shelp.o                   runtime/shelp.s:11
+    mod.o                     runtime/mod.s:11
+    div.o                     runtime/div.s:11
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+negeax (lneg.o):
+    ltoa.o                    common/ltoa.s:9
+ostype (get_ostype.o):
+    set_iigs_speed.o          apple2/set_iigs_speed.s:8
+    get_iigs_speed.o          apple2/get_iigs_speed.s:8
+popax (incsp2.o):
+    memcpy.o                  common/memcpy.s:14
+    ltoa.o                    common/ltoa.s:9
+    filename.o                apple2/filename.s:8
+    _printf.o                 common/_printf.s:11
+    vsnprintf.o               common/vsnprintf.s:9
+    open.o                    apple2/open.s:14
+    shelp.o                   runtime/shelp.s:11
+    rwcommon.o                apple2/rwcommon.s:6
+    lseek.o                   apple2/lseek.s:8
+    fputc.o                   common/fputc.s:10
+    fgets.o                   common/fgets.s:8
+    _heapadd.o                common/_heapadd.s:11
+popname (filename.o):
+    open.o                    apple2/open.s:12
+popptr1 (popptr1.o):
+    memcpy.o                  common/memcpy.s:14
+    ltoa.o                    common/ltoa.s:9
+    fgetc.o                   common/fgetc.s:9
+    udiv.o                    runtime/udiv.s:9
+    strcmp.o                  common/strcmp.s:8
+    rwcommon.o                apple2/rwcommon.s:6
+    mul8.o                    runtime/mul8.s:9
+    mul.o                     runtime/mul.s:9
+    lseek.o                   apple2/lseek.s:8
+    fputc.o                   common/fputc.s:11
+    fgets.o                   common/fgets.s:8
+popsargsudiv16 (shelp.o):
+    mod.o                     runtime/mod.s:11
+    div.o                     runtime/div.s:11
+ptr1 (zeropage.o):
+    strlower.o                common/strlower.s:13
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:11
+    memcpy.o                  common/memcpy.s:15
+    ltoa.o                    common/ltoa.s:11
+    filename.o                /home/fbattaglia/Development/cc65/asminc/zeropage.inc:12
+    _printf.o                 /home/fbattaglia/Development/cc65/asminc/zeropage.inc:12
+    vsnprintf.o               common/vsnprintf.s:11
+    fgetc.o                   common/fgetc.s:10
+    checkferror.o             common/checkferror.s:12
+    _fopen.o                  common/_fopen.s:12
+    zerobss.o                 common/zerobss.s:9
+    write.o                   /home/fbattaglia/Development/cc65/asminc/zeropage.inc:12
+    udiv.o                    runtime/udiv.s:10
+    strcmp.o                  common/strcmp.s:9
+    staxspi.o                 runtime/staxspi.s:10
+    staspidx.o                runtime/staspidx.s:9
+    sprintf.o                 common/sprintf.s:9
+    shelp.o                   runtime/shelp.s:12
+    rwcommon.o                /home/fbattaglia/Development/cc65/asminc/zeropage.inc:12
+    read.o                    /home/fbattaglia/Development/cc65/asminc/zeropage.inc:12
+    pushptr1.o                runtime/pushptr1.s:9
+    popptr1.o                 runtime/popptr1.s:9
+    mulax6.o                  runtime/mulax6.s:9
+    mulax3.o                  runtime/mulax3.s:9
+    mulax10.o                 runtime/mulax10.s:9
+    mul8.o                    runtime/mul8.s:10
+    mul.o                     runtime/mul.s:10
+    malloc.o                  common/malloc.s:108
+    lseek.o                   /home/fbattaglia/Development/cc65/asminc/zeropage.inc:12
+    ldptr1sp.o                runtime/ldptr1sp.s:8
+    ldaxi.o                   runtime/ldaxi.s:8
+    free.o                    common/free.s:62
+    fread.o                   common/fread.s:17
+    fputs.o                   common/fputs.s:8
+    fputc.o                   common/fputc.s:8
+    fgets.o                   common/fgets.s:9
+    fclose.o                  common/fclose.s:11
+    div.o                     runtime/div.s:12
+    _heapadd.o                common/_heapadd.s:10
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:11
+    inout.c.88182.1.o         inout.c.88182.1.s:11
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:11
+ptr2 (zeropage.o):
+    strlower.o                common/strlower.s:13
+    memcpy.o                  common/memcpy.s:15
+    ltoa.o                    common/ltoa.s:11
+    _printf.o                 /home/fbattaglia/Development/cc65/asminc/zeropage.inc:12
+    write.o                   /home/fbattaglia/Development/cc65/asminc/zeropage.inc:12
+    strcmp.o                  common/strcmp.s:9
+    rwcommon.o                /home/fbattaglia/Development/cc65/asminc/zeropage.inc:12
+    read.o                    /home/fbattaglia/Development/cc65/asminc/zeropage.inc:12
+    malloc.o                  common/malloc.s:108
+    lseek.o                   /home/fbattaglia/Development/cc65/asminc/zeropage.inc:12
+    free.o                    common/free.s:62
+    _heapadd.o                common/_heapadd.s:10
+ptr3 (zeropage.o):
+    memcpy.o                  common/memcpy.s:15
+    ltoa.o                    common/ltoa.s:11
+    read.o                    /home/fbattaglia/Development/cc65/asminc/zeropage.inc:12
+    malloc.o                  common/malloc.s:108
+    free.o                    common/free.s:62
+ptr4 (zeropage.o):
+    udiv.o                    runtime/udiv.s:10
+    swap.o                    runtime/swap.s:9
+    strlen.o                  common/strlen.s:12
+    shelp.o                   runtime/shelp.s:12
+    mul8.o                    runtime/mul8.s:10
+    mul.o                     runtime/mul.s:10
+    free.o                    common/free.s:62
+    fgets.o                   common/fgets.s:9
+push0 (pushax.o):
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+push1 (push1.o):
+    _printf.o                 common/_printf.s:11
+pusha (pusha.o):
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+pusha0 (pushax.o):
+    push1.o                   runtime/push1.s:8
+    fgetc.o                   common/fgetc.s:9
+    fseek.o                   ../libwrk/apple2enh/fseek.s:114
+    fread.o                   common/fread.s:11
+    fputc.o                   common/fputc.s:10
+    resource.c.88182.3.o      resource.c.88182.3.s:175
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+pushax (pushax.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:331
+    _printf.o                 common/_printf.s:11
+    open.o                    apple2/open.s:14
+    fgetc.o                   common/fgetc.s:9
+    pushptr1.o                runtime/pushptr1.s:8
+    fseek.o                   ../libwrk/apple2enh/fseek.s:114
+    fread.o                   common/fread.s:11
+    fputs.o                   common/fputs.s:10
+    fputc.o                   common/fputc.s:10
+    fopen.o                   common/fopen.s:11
+    callmain.o                apple2/callmain.s:11
+    resource.c.88182.3.o      resource.c.88182.3.s:175
+    resource.c.88182.3.o      resource.c.88182.3.s:175
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+pusheax (lpush.o):
+    _printf.o                 common/_printf.s:11
+    fseek.o                   ../libwrk/apple2enh/fseek.s:114
+    resource.c.88182.3.o      resource.c.88182.3.s:175
+pushname_tos (filename.o):
+    open.o                    apple2/open.s:12
+pushptr1 (pushptr1.o):
+    fputc.o                   common/fputc.s:11
+    fgets.o                   common/fgets.s:8
+pushw0sp (pushwsp.o):
+    vsprintf.o                common/vsprintf.s:8
+    resource.c.88182.3.o      resource.c.88182.3.s:175
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+pushwysp (pushwsp.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:331
+    fread.o                   common/fread.s:14
+    resource.c.88182.3.o      resource.c.88182.3.s:175
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+regbank (zeropage.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:10
+    _printf.o                 /home/fbattaglia/Development/cc65/asminc/zeropage.inc:14
+    regswap2.o                runtime/regswap2.s:8
+    fseek.o                   ../libwrk/apple2enh/fseek.s:10
+    fread.o                   common/fread.s:31
+regswap2 (regswap2.o):
+    fseek.o                   ../libwrk/apple2enh/fseek.s:114
+reset (crt0.o):
+    callmain.o                apple2/callmain.s:12
+return0 (return0.o):
+    set_iigs_speed.o          apple2/set_iigs_speed.s:8
+    get_iigs_speed.o          apple2/get_iigs_speed.s:8
+    _fopen.o                  common/_fopen.s:11
+    _fdesc.o                  common/_fdesc.s:9
+    fgets.o                   common/fgets.s:8
+returnFFFF (returnFFFF.o):
+    fgetc.o                   common/fgetc.s:9
+    videomode.o               apple2/videomode.s:9
+    fputs.o                   common/fputs.s:10
+    fputc.o                   common/fputc.s:11
+rvsave (crt0.o):
+    callmain.o                apple2/callmain.s:12
+rwcommon (rwcommon.o):
+    write.o                   apple2/write.s:8
+    read.o                    apple2/read.s:9
+rwepilog (rwcommon.o):
+    write.o                   apple2/write.s:8
+rwprolog (rwcommon.o):
+    write.o                   apple2/write.s:8
+    read.o                    apple2/read.s:9
+shlax2 (aslax2.o):
+    resource.c.88182.3.o      resource.c.88182.3.s:175
+sreg (zeropage.o):
+    lneg.o                    runtime/lneg.s:11
+    ltoa.o                    common/ltoa.s:11
+    _printf.o                 /home/fbattaglia/Development/cc65/asminc/zeropage.inc:11
+    udiv.o                    runtime/udiv.s:10
+    steaxsp.o                 runtime/steaxsp.s:8
+    mod.o                     runtime/mod.s:12
+    lsubeqsp.o                runtime/lsubeqsp.s:8
+    lseek.o                   /home/fbattaglia/Development/cc65/asminc/zeropage.inc:11
+    lpush.o                   runtime/lpush.s:13
+    ldeaxysp.o                runtime/ldeaxysp.s:12
+    fseek.o                   ../libwrk/apple2enh/fseek.s:10
+    axlong.o                  runtime/axlong.s:9
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:10
+    inout.c.88182.1.o         inout.c.88182.1.s:10
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10
+staspidx (staspidx.o):
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+stax0sp (staxsp.o):
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+staxspidx (staxspi.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:331
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+staxysp (staxsp.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:331
+    vsprintf.o                common/vsprintf.s:8
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+    inout.c.88182.1.o         inout.c.88182.1.s:655
+steax0sp (steaxsp.o):
+    fseek.o                   ../libwrk/apple2enh/fseek.s:114
+subeqysp (subeqsp.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:331
+subysp (subysp.o):
+    filename.o                apple2/filename.s:8
+swapstk (swap.o):
+    fputs.o                   common/fputs.s:10
+tmp1 (zeropage.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:11
+    ltoa.o                    common/ltoa.s:11
+    filename.o                /home/fbattaglia/Development/cc65/asminc/zeropage.inc:13
+    _printf.o                 /home/fbattaglia/Development/cc65/asminc/zeropage.inc:13
+    open.o                    /home/fbattaglia/Development/cc65/asminc/zeropage.inc:13
+    staxspi.o                 runtime/staxspi.s:10
+    staspidx.o                runtime/staspidx.s:9
+    sleep.o                   apple2/sleep.s:12
+    shelp.o                   runtime/shelp.s:12
+    mul.o                     runtime/mul.s:10
+    mod.o                     runtime/mod.s:12
+    lseek.o                   /home/fbattaglia/Development/cc65/asminc/zeropage.inc:13
+    incaxy.o                  runtime/incaxy.s:8
+    div.o                     runtime/div.s:12
+    decaxy.o                  runtime/decaxy.s:8
+    aslax2.o                  runtime/aslax2.s:8
+    resource.c.88182.3.o      resource.c.88182.3.s:11
+tmp2 (zeropage.o):
+    open.o                    /home/fbattaglia/Development/cc65/asminc/zeropage.inc:13
+    shelp.o                   runtime/shelp.s:12
+    lseek.o                   /home/fbattaglia/Development/cc65/asminc/zeropage.inc:13
+    div.o                     runtime/div.s:12
+tmp3 (zeropage.o):
+    open.o                    /home/fbattaglia/Development/cc65/asminc/zeropage.inc:13
+tosdiva0 (div.o):
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+tosmoda0 (mod.o):
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+tosmula0 (mul8.o):
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+    iunnuh2_no_utf8_en.c.88182.0.o iunnuh2_no_utf8_en.c.88182.0.s:10014
+tosmulax (mul.o):
+    loadsave.c.88182.2.o      loadsave.c.88182.2.s:663
+tossubax (sub.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:331
+tosudivax (udiv.o):
+    fread.o                   common/fread.s:15
+tosumulax (mul.o):
+    fread.o                   common/fread.s:15
+udiv16 (udiv.o):
+    shelp.o                   runtime/shelp.s:11
+vsnprintf (vsnprintf.o):
+    vsprintf.o                common/vsprintf.s:9
+zerobss (zerobss.o):
+    crt0.o                    apple2/crt0.s:12
+zpsave (crt0.o):
+    callmain.o                apple2/callmain.s:12
+
