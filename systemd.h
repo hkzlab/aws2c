@@ -1053,6 +1053,9 @@
         #define NROW 24
     #endif
 
+    #define init_resources() { if(!initialize_resource("TEXT.DAT")) return 0; }
+    #define cleanup_resources() { cleanup_resource(); }
+
     #define waitkey() getchar(); rowc=0
     #define inputtxt()
     #define evidence1() fputc(0x8F, stdout); // Inverted text
