@@ -27,11 +27,13 @@ iunnuh2e_en.bin: inout.c iunnuh2_no_utf8_en.c resource.c text_en.dat
 iunnuh2e_it.po: iunnuh2e_it.bin
 	(cp dsk/prodos.po ./$@; \
 	java -jar $(ACMD) -as ./$@ IUNNUH2.SYSTEM < $<; \
+	java -jar $(ACMD) -p ./$@ EM.DRV 0 < dsk/a2e.auxmem.emd; \
 	java -jar $(ACMD) -p ./$@ TEXT.DAT 0 < text_it.dat; ) 
 	
 iunnuh2e_en.po: iunnuh2e_en.bin
 	(cp dsk/prodos.po ./$@; \
 	java -jar $(ACMD) -as ./$@ IUNNUH2.SYSTEM < $<; \
+	java -jar $(ACMD) -p ./$@ EM.DRV 0 < dsk/a2e.auxmem.emd; \
 	java -jar $(ACMD) -p ./$@ TEXT.DAT 0 < text_en.dat; ) 
 	
 Apple2e: iunnuh2e_it.po iunnuh2e_en.po

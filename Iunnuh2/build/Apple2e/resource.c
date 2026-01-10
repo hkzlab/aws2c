@@ -1,1 +1,1 @@
-../../../resource/cc65/resource_file.c
+../../../resource/cc65/resource_em.c
