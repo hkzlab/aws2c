@@ -80,7 +80,7 @@ def convert_to_bin(input_path, output_path):
             outfile.write(header_buffer.getvalue())
             outfile.write(data_buffer.getvalue())
             
-        print(f"Binary file saved to: {output_path}, map saved to {map_path}")
+        print(f"Binary file saved to: {output_path}")
 
     except FileNotFoundError:
         print(f"Error: The file '{input_path}' was not found.")
