@@ -70,6 +70,7 @@ typedef struct localc_t {
 unsigned int no_of_errors;
 boolean verbose=false;
 boolean convert_utf8=false;
+boolean clear_inconvertible_chars=false; 
 boolean convert_accents=false;
 boolean convert_accent_alt=false;
 boolean compress_messages=false;
@@ -268,6 +269,8 @@ char *encodechar(char *input)
                         notshown, (unsigned int) c, (unsigned int) input[i+1],
                         input);
                 }
+				
+				if(clear_inconvertible_chars) c = input[i + 1] = ' ';
             }
         }
         buffer[k++]=c;
@@ -4368,6 +4371,7 @@ void print_help(char *name)
            "        è -> e'  è -> e`\n"
            " -s  same as -u, but only employs the single accent '.\n"
            "        é -> e'  è -> e'\n"
+           " -p  UTF-8 conversion replaces chars that cannot be converted with spaces.\n"		   
            " -c  compress text with Huffman algorithm.\n"
            " -d  employ 6 directions instead of 10.\n"
            " -m  employ hardcoded messages instead of an array.\n"
@@ -4455,6 +4459,9 @@ unsigned int process_options(char *arg, char *name)
         convert_accents=true;
         convert_accent_alt=true;
         return 1;
+	} else if (strcmp(arg, "-p")==0) {
+		clear_inconvertible_chars=true;
+		return 1;
     } else if (strcmp(arg, "-d")==0) {
         use_6_directions=true;
         return 1;

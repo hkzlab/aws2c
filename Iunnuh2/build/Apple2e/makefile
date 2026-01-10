@@ -1,6 +1,6 @@
 cc65_options = -O -C apple2enh-system.cfg -t apple2enh -D APPLE2E -D NCOL=80 -D CV_IS_A_FUNCTION 
 output_dir = Apple2e_Iunnuh
-aws_options  = -m -c -s -d -n -w -3 -kk
+aws_options  = -m -c -s -d -n -w -3 -kk -p
 
 ACMD=/mnt/d/Users/hkzla/software/applecommander/AppleCommander-ac-1.11.0.jar
 
